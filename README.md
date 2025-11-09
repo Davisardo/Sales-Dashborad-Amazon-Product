@@ -1,5 +1,6 @@
 # Sales-Dashborad-Amazon-Product
-<img width="1229" height="692" alt="Sales Dashboard Amazon Product" src="https://github.com/user-attachments/assets/de3963ed-8e89-4df3-bb75-dcd3a562ddb5" />
+<img width="1419" height="799" alt="Screenshot 2025-11-05 170637" src="https://github.com/user-attachments/assets/48443574-bd5c-42d6-b399-439b642e6c33" />
+
 
 # Problem Statement
 **The company aims to track sales performance in detail to better understand revenue trends, product movement, and customer satisfaction throughout the year.**
