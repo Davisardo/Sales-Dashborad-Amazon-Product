@@ -30,4 +30,6 @@
 - Understand weekly and monthly sales trends.  
 - Evaluate customer satisfaction through product reviews.  
 
+---
+
 > **Note:** These are just some of the key features; the complete project included additional layers of analysis, design refinement, and performance optimization.
